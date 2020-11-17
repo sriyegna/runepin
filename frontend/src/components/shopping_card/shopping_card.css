@@ -1,0 +1,9 @@
+.root {
+  max-width: 300px;
+  min-width: 250px;
+}
+
+.media {
+  height: 140px;
+  object-fit: scale-down;
+}

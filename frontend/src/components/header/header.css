@@ -1,0 +1,16 @@
+.root {
+  flex-grow: 1;
+}
+
+.logo {
+  height: 50px;
+  float: left;
+}
+
+.title {        
+  flex-grow: 1;
+}
+
+.hiddenAppBar {
+  visibility: hidden;
+}
